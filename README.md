@@ -152,10 +152,7 @@ This project demonstrates how SQL can be used to analyze real-world streaming da
 
 ## 🔗 Connect with Me
 
-* LinkedIn: https://linkedin.com/in/your-profile
+* LinkedIn:[ https://linkedin.com/in/your-profile](https://www.linkedin.com/in/krishna-kumar-m-6328b3249/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqoBxBu9zRlSxjUQkyzIK9g%3D%3D)
 
 ---
 
-## 👨‍💻 Author
-
-Krishna
